@@ -5,6 +5,11 @@ Feature #15
 -
 -
 ---
+
+## Tensor Flow Blog
+https://blog.tensorflow.org/2019/02/air-cognizer-predicting-air-quality.html
+
+
 ## Live Demo
 [Air Cognizer](https://reliance-fyp.github.io/Air-Cognizer/)
 ---
